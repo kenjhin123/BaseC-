@@ -1,0 +1,17 @@
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\DreamWebService.csproj.AssemblyReference.cache
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\DreamWebService.GeneratedMSBuildEditorConfig.editorconfig
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\DreamWebService.AssemblyInfoInputs.cache
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\DreamWebService.AssemblyInfo.cs
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\DreamWebService.csproj.CoreCompileInputs.cache
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\bin\Debug\net7.0\DreamWebService.deps.json
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\bin\Debug\net7.0\DreamWebService.runtimeconfig.json
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\bin\Debug\net7.0\DreamWebService.dll
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\bin\Debug\net7.0\DreamWebService.pdb
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\bin\Debug\net7.0\DreamWebModel.dll
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\bin\Debug\net7.0\DreamWebModel.pdb
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\DreamWebService.csproj.CopyComplete
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\DreamWebService.dll
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\refint\DreamWebService.dll
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\DreamWebService.pdb
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\DreamWebService.genruntimeconfig.cache
+D:\DreamWEBAPI\WebAPI\ConsoleApp1\obj\Debug\net7.0\ref\DreamWebService.dll

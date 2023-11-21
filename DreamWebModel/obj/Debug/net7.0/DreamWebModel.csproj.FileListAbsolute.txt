@@ -1,0 +1,14 @@
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\DreamWebModel.csproj.AssemblyReference.cache
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\DreamWebModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\DreamWebModel.AssemblyInfoInputs.cache
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\DreamWebModel.AssemblyInfo.cs
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\DreamWebModel.csproj.CoreCompileInputs.cache
+D:\DreamWEBAPI\WebAPI\DreamWebModel\bin\Debug\net7.0\DreamWebModel.deps.json
+D:\DreamWEBAPI\WebAPI\DreamWebModel\bin\Debug\net7.0\DreamWebModel.runtimeconfig.json
+D:\DreamWEBAPI\WebAPI\DreamWebModel\bin\Debug\net7.0\DreamWebModel.dll
+D:\DreamWEBAPI\WebAPI\DreamWebModel\bin\Debug\net7.0\DreamWebModel.pdb
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\DreamWebModel.dll
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\refint\DreamWebModel.dll
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\DreamWebModel.pdb
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\DreamWebModel.genruntimeconfig.cache
+D:\DreamWEBAPI\WebAPI\DreamWebModel\obj\Debug\net7.0\ref\DreamWebModel.dll
